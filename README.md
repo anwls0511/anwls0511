@@ -43,7 +43,3 @@ AI 기반 모의면접 플랫폼 개발 중
 * Redis
 * MyBatis
 * MariaDB
-
-## 📫 Contact
-
-* Email: [anwls6650@gmail.com](mailto:anwls6650@gmail.com)
